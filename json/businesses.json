@@ -1,68 +1,86 @@
 {
     "businesses": [
       {
-        "business": "Vivint, Inc.",
+        "business": "Julius Berger Nigeria",
         "contactInfo": {
-          "telephone": "801-705-8005",
-          "address": "4931 North 300 West Provo, UT 84604"
+          "telephone": "+23480123456",
+          "address": "10 Ahmed Abashiya Koto Street, Akwanga"
         },
-        "logolocation": "./images/vivint-logo.png",
-        "url": "https://www.vivint.com/"
+        "logolocation": "https://github.com/KCMinchakpu/myimages/berger.webp",
+        "url": "https://www.julius-berger.com"
       },
       {
-        "business": "Big Leap",
+        "business": "Jumia",
         "contactInfo": {
-          "telephone": "801-876-5250",
-          "address": "525 S 850 E, Suite 2, Lehi, Utah 84043"
+          "telephone": "+23480222333444",
+          "address": "Fatima and Zakari Plaza, Wamba Road, Akwanga"
         },
-        "logolocation": "./images/big-leap-logo.png",
-        "url": "https://www.bigleap.com/"
+        "logolocation": "https://github.com/KCMinchakpu/myimages/jumia.webp",
+        "url": "https://www.jumia.com.ng/"
       },
       {
-        "business": "Google Fiber",
+        "business": "Sheraton Hotels Akwanga",
         "contactInfo": {
-          "telephone": "978-267-7686",
-          "address": "250 W Center Street Suite 360, Provo, Utah 84604"
+          "telephone": "08034265874",
+          "address": "# 1 Mike Abdul Crescent, Jos Road, Akwanga"
         },
-        "logolocation": "./images/google-fiber-logo.png",
-        "url": "https://fiber.google.com/"
+        "logolocation": "https://github.com/KCMinchakpu/myimages/sheraton2.webp",
+        "url": "https://sheratonakwangahotel.com/"
       }
       ,
       {
-        "business": "MyComputerCareer",
+        "business": "SOUTECH Ventures",
         "contactInfo": {
-          "telephone": "866-606-6922",
-          "address": "1712 Sounth East Bay Boulevard, Bldg. 5 Suite 350, Provo, Utah 84604"
+          "telephone": "08133325870",
+          "address": "Parsy Estate, Low-Cost Road, Akwanga"
         },
-        "logolocation": "./images/mycomputercareer-logo.png",
-        "url": "https://www.mycomputercareer.edu/"
+        "logolocation": "https://github.com/KCMinchakpu/myimages/soutech.webp",
+        "url": "https://www.soutechventures.com/"
       },
       {
-        "business": "AAA Lakeside Storage",
+        "business": "Hilinks Network LTD",
         "contactInfo": {
-          "telephone": "804-377-5900",
-          "address": "4095 W Center, Provo, Utah 84601"
+          "telephone": "09123548790",
+          "address": "Rinze Plaza, Jos Road, Akwanga, Nasarawa State"
         },
-        "logolocation": "./images/AAALakesideStorage-logo.png",
-        "url": "https://www.aaalakesidestorage.com/"
+        "logolocation": "https://github.com/KCMinchakpu/myimages/hilinks.webp",
+        "url": "https://hilinksnetworks.ng/"
       },
       {
-        "business": "LDS Employment Resource Services",
+        "business": "Paradise Hills Estate",
         "contactInfo": {
-          "telephone": "801-818-6161",
-          "address": "702 West Columbia Lane, Provo, Utah 84604"
+          "telephone": "0806669994587",
+          "address": "Paradise Hills Estate GburGblon,Akwanga"
         },
-        "logolocation": "./images/ldsemploymentservices-logo.png",
-        "url": "https://www.latterdaysaintjobs.org/"
+        "logolocation": "https://github.com/KCMinchakpu/myimages/paradise.webp",
+        "url": "https://paradisehillsestate.com/"
       },
       {
-        "business": "Utah Transit Authority",
+        "business": "Ubuntu Taxi Nigeria",
         "contactInfo": {
-          "telephone": "801-237-1929",
-          "address": "669 West 200 South, Salt Lake City, Utah, 84101"
+          "telephone": "081226655447",
+          "address": "Old Park, Wamba Road, Akwanga"
         },
-        "logolocation": "./images/uta-logo.png",
+        "logolocation": "https://github.com/KCMinchakpu/myimages/ubuntu.webp",
+        "url": "https://www.linkedin.com/in/ubuntu-taxi-nigeria-968547223"
+      },
+      {
+        "business": "A & T Saloon and Spa",
+        "contactInfo": {
+          "telephone": "070698745666",
+          "address": "Opposite Skybase Computers, Wamba Road, Akwanga"
+        },
+        "logolocation": "https://github.com/KCMinchakpu/myimages/atsaloon.webp",
         "url": "https://www.rideuta.com/"
+      },
+      {
+        "business": "Limi Hospital",
+        "contactInfo": {
+          "telephone": "+2348023616686",
+          "address": "Beside Unity Bank, Lafia Road, Akwanga"
+        },
+        "logolocation": "https://github.com/KCMinchakpu/myimages/limi.webp",
+        "url": "https://limihospital.com/"
       }
     ]
   }
