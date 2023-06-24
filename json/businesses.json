@@ -6,7 +6,7 @@
           "telephone": "+23480123456",
           "address": "10 Ahmed Abashiya Koto Street, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/berger.webp",
+        "logolocation": "./images/berger.webp",
         "url": "https://www.julius-berger.com"
       },
       {
@@ -15,7 +15,7 @@
           "telephone": "+23480222333444",
           "address": "Fatima and Zakari Plaza, Wamba Road, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/jumia.webp",
+        "logolocation": "./images/jumia.webp",
         "url": "https://www.jumia.com.ng/"
       },
       {
@@ -24,7 +24,7 @@
           "telephone": "08034265874",
           "address": "# 1 Mike Abdul Crescent, Jos Road, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/sheraton2.webp",
+        "logolocation": "./images/sheraton2.webp",
         "url": "https://sheratonakwangahotel.com/"
       }
       ,
@@ -34,7 +34,7 @@
           "telephone": "08133325870",
           "address": "Parsy Estate, Low-Cost Road, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/soutech.webp",
+        "logolocation": "./images/soutech.webp",
         "url": "https://www.soutechventures.com/"
       },
       {
@@ -43,7 +43,7 @@
           "telephone": "09123548790",
           "address": "Rinze Plaza, Jos Road, Akwanga, Nasarawa State"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/hilinks.webp",
+        "logolocation": "./images/hilinks.webp",
         "url": "https://hilinksnetworks.ng/"
       },
       {
@@ -52,7 +52,7 @@
           "telephone": "0806669994587",
           "address": "Paradise Hills Estate GburGblon,Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/paradise.webp",
+        "logolocation": "./images/paradise.webp",
         "url": "https://paradisehillsestate.com/"
       },
       {
@@ -61,7 +61,7 @@
           "telephone": "081226655447",
           "address": "Old Park, Wamba Road, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/ubuntu.webp",
+        "logolocation": "./images/ubuntu.webp",
         "url": "https://www.linkedin.com/in/ubuntu-taxi-nigeria-968547223"
       },
       {
@@ -70,7 +70,7 @@
           "telephone": "070698745666",
           "address": "Opposite Skybase Computers, Wamba Road, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/atsaloon.webp",
+        "logolocation": "./images/atsaloon.webp",
         "url": "https://www.rideuta.com/"
       },
       {
@@ -79,7 +79,7 @@
           "telephone": "+2348023616686",
           "address": "Beside Unity Bank, Lafia Road, Akwanga"
         },
-        "logolocation": "https://github.com/KCMinchakpu/myimages/limi.webp",
+        "logolocation": "./images/limi.webp",
         "url": "https://limihospital.com/"
       }
     ]
